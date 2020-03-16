@@ -177,17 +177,19 @@ a:focus {
     }
 }
 
+.o-row--dark {
+    background-color: #444444;
+    color: #FFFFFF;
+    display: flow-root;
+}
+
 .o-row--primary {
     background-color: #e85e00;
     color: #FFFFFF;
     display: flow-root;
 }
 
-.o-row--dark {
-    background-color: #444444;
-    color: #FFFFFF;
-    display: flow-root;
-}
+
 
 
 
